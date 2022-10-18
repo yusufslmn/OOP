@@ -1,0 +1,3 @@
+Isim           TelNo               KullaniciAdi        Eposta              Adres               Sifre               Indirim             Dogum                          
+y              u                   s                   u                   f                   1                   9                   0
+kadir          05072847542         kadirr              snfaksfnsdkf        ortahisar           kadir19             hosgeldin           06062001            
