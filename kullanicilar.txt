@@ -1,3 +1,7 @@
-Isim           TelNo               KullaniciAdi        Eposta              Adres               Sifre               Indirim             Dogum                          
-y              u                   s                   u                   f                   1                   9                   0
-kadir          05072847542         kadirr              snfaksfnsdkf        ortahisar           kadir19             hosgeldin           06062001            
+ali veli$402@gmail.com$507$03012001$ortahisar$alican$ali19
+veli$402@gmail.com$507$03012001$ortahisar$velican$veli16
+ali$402@gmail.com$507$03012001$ortahisar$mehmet$memoli
+furkan tahan$tahan@gmail.com$0507$1998$ortahisar$furkan$furkan61
+Yusuf Salman$402529@gmail.com$05072847542$03/05/2001$Yomra$yusufslmn$yusuf19
+Ozan Arslan$414466@ktu.edu.tr$05050000000$29/09/2002$Arakli$ozanarslan$ozann19
+burak$burak@gmail.com$0507$01/01/2001$ortahisar$burakakbal$burak19

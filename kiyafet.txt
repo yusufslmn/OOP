@@ -1,0 +1,13 @@
+Elbise$kot elbise$150$XL$Mavi
+Tshirt$spidermantshirt$200$L$Siyah
+Ayakkabi$Adidas Sport$300$xll$Mavi
+Etek$Kisa Etek$100$Small$Turuncu
+Pantolon$Ispanyol Paca$200$90 beden$Kahverengi
+Gomlek$Oduncu Gomlegi$230$L$Lacivert
+Elbise$Keten Elbise$200$XL$Sari
+Tshirt$Sport Shirt$200$L$Beyaz
+Ayakkabi$Nike Sport$300$xll$Mavi
+Etek$Uzun Etek$150$Small$Mavi
+Pantolon$Duz Paca$200$80 beden$Siyah
+Gomlek$Sport Gomlek$250$L$Kirmizi
+Elbise$Gucci$500$XL$Mavi
